@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b821c62eb028374d996095d039dd9a2, type: 3}
+  m_Name: Sinister LU
+  m_EditorClassIdentifier: 
+  SpriteEnemy: {fileID: 21300000, guid: 37060cd644e197b42a8e29bb6d139424, type: 3}
+  SpriteColor: {r: 1, g: 1, b: 1, a: 1}
+  SpeedMoveEnemy: 0.6
+  HealthEnemy: 109
+  DamageEnemy: 1
+  MinReward: 1
+  MaxReward: 16
+  MinScore: 1
+  MaxScore: 4

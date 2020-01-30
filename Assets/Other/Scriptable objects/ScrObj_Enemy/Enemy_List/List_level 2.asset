@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91dd00242e422334e9e201f9f44ca970, type: 3}
+  m_Name: List_level 2
+  m_EditorClassIdentifier: 
+  Distribution:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 50
+      value: 0
+      inSlope: 0.039953824
+      outSlope: 0.039953824
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 75.02889
+      value: 1
+      inSlope: -0.00004622899
+      outSlope: -0.00004622899
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 100
+      value: 0
+      inSlope: -0.040046282
+      outSlope: -0.040046282
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  EnemyList:
+  - {fileID: 11400000, guid: 99544ebd87d544941b7dcda79cdd0d03, type: 2}
+  - {fileID: 11400000, guid: a17f3863ca51b1e4ea972de7388082bf, type: 2}
+  - {fileID: 11400000, guid: 262b43431e3bf1d40a2beb36046ba40b, type: 2}
+  - {fileID: 11400000, guid: 5fdbf9d7cbdee5442b763ccdf423b03f, type: 2}
